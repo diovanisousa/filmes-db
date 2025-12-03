@@ -1,18 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Velozes e Furiosos",
-    "description": "Dom Toretto e sua equipe enfrentam uma nova ameaça.",
-    "image": "https://i.imgur.com/JCkB4Exe.jpeg",
-    "video": "https://meulink.com/trailer1.mp4",
-    "categories": ["Ação", "Corrida"]
+    "title": "The Batman",
+    "description": "Em seu segundo ano como vigilante, Batman investiga uma série de crimes sombrios em Gotham.",
+    "image": "https://www.themoviedb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+    "categories": ["Ação", "Suspense"]
   },
   {
     "id": 2,
-    "title": "O Chamado",
-    "description": "Uma fita misteriosa que causa a morte de quem assiste.",
-    "image": "https://i.imgur.com/OPQxCd3e.jpeg",
-    "video": "https://meulink.com/terror1.mp4",
-    "categories": ["Terror"]
+    "title": "Deadpool",
+    "description": "Um mercenário tagarela ganha habilidades extraordinárias após um experimento.",
+    "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yCjDTz3WmCIgB8kP7d2F6ceW0EY.jpg",
+    "video": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
+    "categories": ["Ação", "Comédia"]
+  },
+  {
+    "id": 3,
+    "title": "Interestelar",
+    "description": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "image": "https://i.pinimg.com/736x/81/cd/63/81cd63bdaf0360c062b4a1ef12dad56f.jpg",
+    "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "categories": ["Ficção Científica", "Drama"]
   }
 ]
