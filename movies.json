@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Velozes e Furiosos",
+    "description": "Dom Toretto e sua equipe enfrentam uma nova ameaça.",
+    "image": "https://i.imgur.com/JCkB4Exe.jpeg",
+    "video": "https://meulink.com/trailer1.mp4",
+    "categories": ["Ação", "Corrida"]
+  },
+  {
+    "id": 2,
+    "title": "O Chamado",
+    "description": "Uma fita misteriosa que causa a morte de quem assiste.",
+    "image": "https://i.imgur.com/OPQxCd3e.jpeg",
+    "video": "https://meulink.com/terror1.mp4",
+    "categories": ["Terror"]
+  }
+]
