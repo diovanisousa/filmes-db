@@ -22,5 +22,53 @@
     "image": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/533/lista-filmes-de-terror-2022-capa.jpg",
     "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
     "categories": ["Ficção Científica", "Drama"]
+  },
+  {
+    "id": 1,
+    "title": "The Batman",
+    "description": "Em seu segundo ano como vigilante, Batman investiga uma série de crimes sombrios em Gotham.",
+    "image": "https://img.odcdn.com.br/wp-content/uploads/2024/11/Design-sem-nome-19-1920x1080.jpg",
+    "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+    "categories": ["Ação", "Suspense"]
+  },
+  {
+    "id": 2,
+    "title": "Deadpool",
+    "description": "Um mercenário tagarela ganha habilidades extraordinárias após um experimento.",
+    "image": "https://s2-gshow.glbimg.com/owBUNIfqQUvuNqUC9h1tU_OuwvM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/D/R/Ik6dBDQo2z0lN7CSyESA/filmes-e-series-do-globoplay-para-maratonar.jpg",
+    "video": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
+    "categories": ["Ação", "Comédia"]
+  },
+  {
+    "id": 3,
+    "title": "Interestelar",
+    "description": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "image": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/533/lista-filmes-de-terror-2022-capa.jpg",
+    "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "categories": ["Ficção Científica", "Drama"]
+  },
+  {
+    "id": 1,
+    "title": "The Batman",
+    "description": "Em seu segundo ano como vigilante, Batman investiga uma série de crimes sombrios em Gotham.",
+    "image": "https://img.odcdn.com.br/wp-content/uploads/2024/11/Design-sem-nome-19-1920x1080.jpg",
+    "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+    "categories": ["Ação", "Suspense"]
+  },
+  {
+    "id": 2,
+    "title": "Deadpool",
+    "description": "Um mercenário tagarela ganha habilidades extraordinárias após um experimento.",
+    "image": "https://s2-gshow.glbimg.com/owBUNIfqQUvuNqUC9h1tU_OuwvM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/D/R/Ik6dBDQo2z0lN7CSyESA/filmes-e-series-do-globoplay-para-maratonar.jpg",
+    "video": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
+    "categories": ["Ação", "Comédia"]
+  },
+  {
+    "id": 3,
+    "title": "Interestelar",
+    "description": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+    "image": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/533/lista-filmes-de-terror-2022-capa.jpg",
+    "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "categories": ["Ficção Científica", "Drama"]
   }
 ]
