@@ -2,73 +2,161 @@
   {
     "id": 1,
     "title": "The Batman",
-    "description": "Em seu segundo ano como vigilante, Batman investiga uma série de crimes sombrios em Gotham.",
-    "image": "https://img.odcdn.com.br/wp-content/uploads/2024/11/Design-sem-nome-19-1920x1080.jpg",
+    "description": "Em seu segundo ano como vigilante, Batman enfrenta o Charada enquanto desvenda segredos sombrios de Gotham.",
+    "image": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
     "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
     "categories": ["Ação", "Suspense"]
   },
   {
     "id": 2,
     "title": "Deadpool",
-    "description": "Um mercenário tagarela ganha habilidades extraordinárias após um experimento.",
-    "image": "https://s2-gshow.glbimg.com/owBUNIfqQUvuNqUC9h1tU_OuwvM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/D/R/Ik6dBDQo2z0lN7CSyESA/filmes-e-series-do-globoplay-para-maratonar.jpg",
+    "description": "Um mercenário tagarela ganha habilidades extraordinárias e busca vingança contra o responsável por sua transformação.",
+    "image": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
     "video": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
     "categories": ["Ação", "Comédia"]
   },
   {
     "id": 3,
     "title": "Interestelar",
-    "description": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
-    "image": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/533/lista-filmes-de-terror-2022-capa.jpg",
+    "description": "Astronautas viajam através de um buraco de minhoca para salvar a humanidade da extinção.",
+    "image": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
     "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
     "categories": ["Ficção Científica", "Drama"]
   },
   {
     "id": 4,
-    "title": "The Batman",
-    "description": "Em seu segundo ano como vigilante, Batman investiga uma série de crimes sombrios em Gotham.",
-    "image": "https://img.odcdn.com.br/wp-content/uploads/2024/11/Design-sem-nome-19-1920x1080.jpg",
-    "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
-    "categories": ["Ação", "Suspense"]
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "description": "Frodo Bolseiro inicia uma jornada épica para destruir o Um Anel.",
+    "image": "https://image.tmdb.org/t/p/original/56zTpe2xvaA4alU51sRWPoKPYZy.jpg",
+    "video": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "categories": ["Fantasia", "Aventura"]
   },
   {
     "id": 5,
-    "title": "Deadpool",
-    "description": "Um mercenário tagarela ganha habilidades extraordinárias após um experimento.",
-    "image": "https://s2-gshow.glbimg.com/owBUNIfqQUvuNqUC9h1tU_OuwvM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/D/R/Ik6dBDQo2z0lN7CSyESA/filmes-e-series-do-globoplay-para-maratonar.jpg",
-    "video": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
-    "categories": ["Ação", "Comédia"]
+    "title": "Matrix",
+    "description": "Um hacker descobre que a realidade é uma simulação e luta pela liberdade da humanidade.",
+    "image": "https://image.tmdb.org/t/p/original/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+    "video": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "categories": ["Ficção Científica", "Ação"]
   },
   {
     "id": 6,
-    "title": "Interestelar",
-    "description": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
-    "image": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/533/lista-filmes-de-terror-2022-capa.jpg",
-    "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-    "categories": ["Ficção Científica", "Drama"]
+    "title": "Vingadores: Ultimato",
+    "description": "Os heróis remanescentes unem forças para desfazer o estalo de Thanos.",
+    "image": "https://image.tmdb.org/t/p/original/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg",
+    "video": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "categories": ["Ação", "Aventura", "Ficção Científica"]
   },
   {
     "id": 7,
-    "title": "The Batman",
-    "description": "Em seu segundo ano como vigilante, Batman investiga uma série de crimes sombrios em Gotham.",
-    "image": "https://img.odcdn.com.br/wp-content/uploads/2024/11/Design-sem-nome-19-1920x1080.jpg",
-    "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
-    "categories": ["Ação", "Suspense"]
+    "title": "Gladiador",
+    "description": "Um general romano se torna escravo e luta como gladiador em busca de vingança.",
+    "image": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "video": "https://www.youtube.com/watch?v=uvbavW31adA",
+    "categories": ["Drama", "Ação"]
   },
   {
     "id": 8,
-    "title": "Deadpool",
-    "description": "Um mercenário tagarela ganha habilidades extraordinárias após um experimento.",
-    "image": "https://s2-gshow.glbimg.com/owBUNIfqQUvuNqUC9h1tU_OuwvM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/D/R/Ik6dBDQo2z0lN7CSyESA/filmes-e-series-do-globoplay-para-maratonar.jpg",
-    "video": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
-    "categories": ["Ação", "Comédia"]
+    "title": "Avatar",
+    "description": "Um ex-fuzileiro naval se junta aos Na'vi em um planeta alienígena em conflito.",
+    "image": "https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "video": "https://www.youtube.com/watch?v=6ziBFh3V1aM",
+    "categories": ["Aventura", "Ficção Científica"]
   },
   {
     "id": 9,
-    "title": "Interestelar",
-    "description": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
-    "image": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/533/lista-filmes-de-terror-2022-capa.jpg",
-    "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-    "categories": ["Ficção Científica", "Drama"]
+    "title": "Coringa",
+    "description": "A origem sombria do icônico vilão Coringa, explorando sua transformação em Gotham.",
+    "image": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "video": "https://www.youtube.com/watch?v=t433PEQGErc",
+    "categories": ["Drama", "Suspense"]
+  },
+  {
+    "id": 10,
+    "title": "Mad Max: Estrada da Fúria",
+    "description": "Em um deserto pós-apocalíptico, Max e Furiosa fogem de um tirano brutal.",
+    "image": "https://image.tmdb.org/t/p/original/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "video": "https://www.youtube.com/watch?v=MonFNCgK4WE",
+    "categories": ["Ação", "Aventura"]
+  },
+  {
+    "id": 11,
+    "title": "Toy Story",
+    "description": "Woody, Buzz e seus amigos embarcam em aventuras emocionantes no mundo dos brinquedos.",
+    "image": "https://image.tmdb.org/t/p/original/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "video": "https://www.youtube.com/watch?v=KYz2wyBy3kc",
+    "categories": ["Animação", "Família"]
+  },
+  {
+    "id": 12,
+    "title": "Harry Potter e a Pedra Filosofal",
+    "description": "O jovem Harry descobre ser um bruxo e entra em Hogwarts pela primeira vez.",
+    "image": "https://image.tmdb.org/t/p/original/1jGgUG1diMUhUNiuH2C5tQWso9c.jpg",
+    "video": "https://www.youtube.com/watch?v=VyHV0BRtdxo",
+    "categories": ["Fantasia", "Aventura"]
+  },
+  {
+    "id": 13,
+    "title": "Homem-Aranha: Sem Volta para Casa",
+    "description": "Peter enfrenta perigos multiversais após um feitiço falhar.",
+    "image": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "video": "https://www.youtube.com/watch?v=LDgHcQ2Gg-Y",
+    "categories": ["Ação", "Aventura", "Ficção Científica"]
+  },
+  {
+    "id": 14,
+    "title": "John Wick",
+    "description": "Um ex-assassino volta à ativa para se vingar após perder tudo o que amava.",
+    "image": "https://image.tmdb.org/t/p/original/fZPSd91y6RT2Y6pY0AIVkN4QMiq.jpg",
+    "video": "https://www.youtube.com/watch?v=2AUmvWm5ZDQ",
+    "categories": ["Ação", "Suspense"]
+  },
+  {
+    "id": 15,
+    "title": "A Origem",
+    "description": "Um ladrão invade sonhos para roubar segredos corporativos.",
+    "image": "https://image.tmdb.org/t/p/original/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
+    "video": "https://www.youtube.com/watch?v=8hP9D6kZseM",
+    "categories": ["Ficção Científica", "Suspense"]
+  },
+  {
+    "id": 16,
+    "title": "Clube da Luta",
+    "description": "Um homem sem propósito cria um clube secreto que muda sua vida.",
+    "image": "https://image.tmdb.org/t/p/original/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "video": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "categories": ["Drama", "Suspense"]
+  },
+  {
+    "id": 17,
+    "title": "Jurassic Park",
+    "description": "Dinossauros clonados fogem de controle em um parque temático.",
+    "image": "https://image.tmdb.org/t/p/original/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+    "video": "https://www.youtube.com/watch?v=QWBKEmWWL38",
+    "categories": ["Aventura", "Ficção Científica"]
+  },
+  {
+    "id": 18,
+    "title": "O Rei Leão",
+    "description": "Simba precisa reencontrar seu destino após tragédias na savana.",
+    "image": "https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8Dygnvf3NbxH.jpg",
+    "video": "https://www.youtube.com/watch?v=lFzVJEksoDY",
+    "categories": ["Animação", "Drama", "Família"]
+  },
+  {
+    "id": 19,
+    "title": "Pantera Negra",
+    "description": "T'Challa retorna a Wakanda para assumir seu trono e enfrentar um novo inimigo.",
+    "image": "https://image.tmdb.org/t/p/original/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "video": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+    "categories": ["Ação", "Aventura", "Super-herói"]
+  },
+  {
+    "id": 20,
+    "title": "O Lobo de Wall Street",
+    "description": "A história real de um corretor que vive em meio a excessos e corrupção.",
+    "image": "https://image.tmdb.org/t/p/original/7HLzPPf2BXAaWFI73NRSb VQKssN.jpg",
+    "video": "https://www.youtube.com/watch?v=iszwuX1AK6A",
+    "categories": ["Drama", "Comédia"]
   }
 ]
